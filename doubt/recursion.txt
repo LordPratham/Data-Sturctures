@@ -1,0 +1,3 @@
+base case
+small calc
+recursive call
